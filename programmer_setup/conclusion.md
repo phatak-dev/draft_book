@@ -3,4 +3,4 @@ Devices are integral part of a developer. Having  a right Laptop, Smartphone and
 
 This section has given essential devices and softwares to start with. Use it as a starting point and explore more essential tools by yourself.
 
-Happy reading, coding and fun.
+Happy reading, coding and fun :)

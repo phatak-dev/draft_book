@@ -1,26 +1,26 @@
 # Blog
 
-Writing blog is like keeping a dairy. Blog allows you to keep track of things that you are doing and share the same with world. A good blog not only helps author, it helps it's readers to improve their knowledge. Writing a blog seems to be easy in first sight, but when you do its not that easy.
+Writing blog is like keeping a dairy. Blog allows you to keep track of things that you are doing and share the same with world. A good blog not only helps author, it also helps it's readers to improve their knowledge. Writing a blog seems to be easy in first sight, but when you do its not that easy.
 
 #Writing is hard
-Writing is different than talking. Talking comes natural to humans but not writing. Writing is something we have cultivated as a culture thing. So when I ask some developer to talk about what they are doing, they can happily  talk for hours. But if I ask developer to write down what they did, they have hard time doing it. This is the one of the reason often documentation of most of software tools in highly lacking.
+Writing is different than talking. Talking comes natural to humans but not writing. Writing is something we have cultivated as a culture thing. So when I ask some developer to talk about what they are doing, they can happily  talk for hours. But if I ask them to write down what they did, they have hard time doing it. This is  one of the main reasons why often documentation of most of software tools is not available.
 
-Writing needs a focused manner of expressing your understanding to fellow person. A good blog always wins over its audience by its simplicity and to the point explanation. So writing not only keep tracks your work, it also teaches you how to express your understanding in clean manner.
+Writing needs a focused manner of expressing your understanding to a fellow person. A good blog always wins over its audience by its simplicity and to the point explanation. So writing not only keeps track of  your work, it also allows you to express your understanding in clean manner.
 
 #Writing as communication tool at workplace
-In any job, writing is primary communication skill. You have to write documents to express your ideas to your clients. You have write mail to express your ideas to your higher management. So if anything helps you to improve write better it's is highly useful. Blogging is one of the best tool to do that.
+In any profession, writing is a  primary communication skill. You have to write documents to express your ideas to your clients. You have to write emails to express your ideas to higher management. So if anything helps you to improve your writing skill you must always do it. Blogging is one of the best tool to do that.
 
 
 #What is a blog?
-Blog is collection of articles shared by a person or collection of people on web. You already read many blogs like Verge,Techcrunch in the read section. As you can read others blog, you can write your own too.
+Blog is a collection of articles, shared by a person or group of people on web. Having read many blogs like Verge,Techcrunch in the read section of the book, you can write your own too.
 
 #Why Blog?
 
-Blogging seems to be a lot work. You have to think, write, publish etc. So why bother? . The following are few reason you should do blogging.
+Blogging seems to be a lot of work. You have to think, write, publish etc. So why bother? . The following are few reason you should do blogging.
 
 * Online dairy
 
-    Blog is best way to share your work with world. If you put your understanding of a given framework,language out there in web, people find you to be authoritative on that subject. Not only it gives you more legitimacy, blog also helps in the job interviews. Blog is one the way people can understand your passion and skill set on a given subject.
+    Blog is the best way to share your work with world. If you put your understanding of a given framework,language out there in web, people find you to be authoritative on that subject. Not only it gives you more legitimacy, blog also helps in the job interviews. Blog is one of the way people can understand your passion and skill set on a given subject.
 
 * Improved communication
 

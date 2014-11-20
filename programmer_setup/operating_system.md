@@ -1,12 +1,12 @@
 # Operating system
-Operating system is the most critical piece of computer system. Having a good operating system makes development much easier. Normally most of the computers run Windows operating system. It's good for most of casual users of the computers. But as a developer, you have better choices. If you are using Windows consider switching to Linux based operating system.
+Operating system is the most critical piece of computer system. Having a good operating system makes development much easier. Normally most of the computers run Windows operating system. It's good for most of the casual users of the computers. But as a developer, you have better choices. If you are using Windows consider switching to Linux based operating system.
 
 #Why Linux?
-Linux systems come with many important advantages over windows for power user. As a developer you should be power user of the operating system. The following are few of the reasons why you should adopt linux
+Linux systems come with many important advantages over windows for power user. As a developer you should be the power user of the operating system. The following are few of the reasons why you should adopt linux
 
 * ###It's Unix based
 
-    Unix is famous for its simplicity and robustness. As Linux is based on Unix you will get similar robustness and simplicity out of the box. No more random crashes or hangup. Linux also has awesome security which means no worries of viruses.
+    Unix is famous for its simplicity and robustness. As Linux is based on Unix you will get similar robustness and simplicity out of the box. No more random crashes or hangup. Linux also has awesome security which means no worry of viruses.
 
 * ### Operating system course teaches you Linux
 
@@ -29,7 +29,7 @@ Linux systems come with many important advantages over windows for power user. A
 This is one of misconception about Linux. In earlier days linux only used to come with command line interfaces. But with newer distribution of linux like Ubuntu you get nice GUI like you find on windows.
 
 #Ubuntu - Linux distribution for beginners
-There are many distributions of linux available. You may be heard of Redhat, Fedora,Ubuntu etc. If you only used windows till now and want to make a switch to Linux, I recommend you to start with [Ubuntu](www.ubuntu.com). Ubuntu is very easy to use and well supported operating system. It's also choice of operating of mine.So you can start with ubuntu and as you become more comfortable with linux you can move into other distributions.
+There are many distributions of linux available. You might have  heard of Redhat, Fedora,Ubuntu etc. If you only used windows till now and want to make a switch to Linux, I recommend you to start with [Ubuntu](www.ubuntu.com). Ubuntu is very easy to use and well supported operating system. It's my choice of operating system. So you can start with ubuntu and as you become more comfortable with linux you can move into other distributions.
 
 
 
@@ -38,9 +38,9 @@ Yes of course. Before you make up mind to use Linux as daily operating system yo
 
 
 #Power of command line
-Ubuntu comes with nice GUI. You can use ubuntu like Windows just by using GUI only. But the real power of linux comes from command line. Many developers fear the command line when they use first time. But please don't give up. Able to use command line gives you power over other normal programmer. Command line allows you automate lot of routinely things. So I highly recommend you spend lot of time on Ubuntu command line. You will find the it's power after sometime.
+Ubuntu comes with nice GUI. You can use ubuntu like Windows just by using GUI only. But the real power of linux comes from command line. Many developers fear the command line when they use it for first time. But please don't give up. Ability to use command line gives you power over other normal programmer. Command line allows you to automate lot of routinely things. So I highly recommend you spend lot of time on Ubuntu command line. You will know  it's power after sometime.
 
-If you are more interested to know the history of Linux and how it's changed people you can watch below video.
+If you are more interested to know the history of Linux and how it has changed people you can watch below video.
 
 <iframe src="https://www.youtube.com/embed/jw8K460vx1c" height="300" width="100%" allowFullScreen="1" ></iframe>
 

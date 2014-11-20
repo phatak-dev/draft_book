@@ -1,15 +1,15 @@
 # Smartphone
-These days everyone owns a phone. Most of the those phones are touch screen based phones, called Smart phones. You may own or used one of those smartphone. Though most of the times people use their phones to make calls, messaging or play games you can do more as developer. In this section we are going to discuss how owning a smartphone can improve you as a developer and add a new dimension to you knowledge and productivity.
+These days everyone owns a phone. Most of the those phones are touch screen based phones, called Smart phones. You may own or used one of those smartphone. Though most of the times people use their phones just to make calls, messaging or play games you can do more as developer. In this section we are going to discuss how owning a smartphone can improve you as a developer and add a new dimension to you knowledge and productivity.
 
 
 #What is a smartphone?
-Smartphone is a hand held computer which normally operated using touchscreen interface. They are essentially limited version of desktop or laptop. They run operating systems that are created from basis of computer operating system
+Smartphone is a hand held computer which is  normally operated using touchscreen interface. They are essentially limited version of desktop or laptop. They run operating systems that are created from basis of computer operating system.
 
 #Android vs iOS
 
-Android and iOS two most famous smartphone operating system in market now. You may be wondering which phone you should get is it iPhone running iOS or phones running Android phones. Both phones have similar user facing characteristics but they have different level of control for developer.
+Android and iOS two most famous smartphone operating system in market now. You may be wondering which phone you should get! Is it iPhone running iOS or phones running Android OS. Both phones have similar user facing characteristics but they have different level of control for developer.
 
-iOS is based Mac operating system developed by Apple and Android is based on Linux operating system. As we discussed in earlier chapter Linux is viable operating system for Desktop for a developer and its same for phone too. So if you want tinker with phone like you do with your computer, I recommend you to go with Android.
+iOS is based on  Mac operating system developed by Apple and Android is based on Linux operating system. As we discussed in earlier chapter, Linux is a viable operating system in Desktop for a developer and its same for phone too. So if you want to tinker with phone like you do with your computer, I recommend you to go with Android.
 
 #Why Android ?
 The following are few reasons you should pickup Android as you smartphone.
@@ -36,7 +36,7 @@ If you see the apps mentioned above, all the apps are highly useful to keep trac
 
 * ### Java based Application development
 
-Using other apps is good. But how about writing your own App? that's going to be awesome. One of the good thing about Android is it uses standard language like Java and tools like Eclipse, Idea for mobile application development. Most of these tools you already know from previous sections, which means you already capable of building apps for your phone. Learn how to do android development [here](http://developer.android.com/)
+Using apps developed by others is good. But how about writing your own App? that's going to be awesome. One of the good thing about Android is it uses standard language like Java and tools like Eclipse, Idea for mobile application development. Most of these tools you already know from previous sections, which means you already capable of building apps for your phone. Learn how to do android development [here](http://developer.android.com/)
 
 * ### Reading device
 
