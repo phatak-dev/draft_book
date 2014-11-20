@@ -1,15 +1,15 @@
 # Reading device
-From last few chapters, It's been clear that reading is integral part of the developer life. So In this section we are going to focus on dedicated devices which help you to read better and more.
+From last few chapters, It's been clear that reading is an integral part in developer's life. So In this section we are going to focus on dedicated devices which help you to read better and more.
 
 #Ebook Revolution
 
-Ebooks have revolutionized the way we read. Ebooks have lot of advantages over physical books in terms of delivery and pricing. So most of your reading will be happening in computer/phone rather than in a physical book. Being in ebook world has few advantages over physical books.
+Ebooks have revolutionized the way we read. Ebooks have a lot of advantages over physical books in terms of delivery and pricing. So most of your reading will be happening in computer/phone rather than in a physical book. Being in ebook world has few advantages over physical books.
 
 * You can read anywhere you want like on your phone
 * Easy to store thousands of Books
 * Cheaper than physical copies
 
-But reading Ebook also comes with additional challenge. Computer or Phone, they are not well suited for reading books for long time. On phone the screen size is too small to do any kind of serious reading. On laptop, its difficult to hold for long time and having keyboard makes it cumbersome.
+But reading Ebook also comes with additional challenge. Computers or Phones  are not well suited for reading a book for long time. In case of phone, the screen size is too small to do any kind of serious reading. On a laptop, its difficult to hold for long time and having keyboard makes it cumbersome.
 
 So having a dedicated devices for reading is always great. You may not have to invest immediately as you can do most of the reading through computer or phone. But if you seriously want to read a lot give a consideration to the following devices.
 
@@ -32,7 +32,7 @@ I have recommended an Android phone in Smart phone section as it allows develope
  * Extremely good battery life and durability
  * Very light weight
 
-The app ecosystem of iPad is in much more improved state compared to android tablets. So if you are planning to invest in any serious money on dedicated reading devices I recommend iPad.
+The app ecosystem of iPad is much more in improved state compared to android tablets. So if your are planning to invest money on dedicated reading devices,then  I recommend you  going with an iPad.
 
 #Apps
 iPad has some great apps for reading and other. The following are few apps which integrate well with web, android phone and iPad which makes reading seamless across devices.
@@ -43,5 +43,5 @@ iPad has some great apps for reading and other. The following are few apps which
 * Feedly
 * Google apps like Gmail,Google Search, Google maps etc
 
-Reading on iPad or kindle is much more pleasant and satisfying compared to Laptop or phone. So if you want to take you reading to next level buy a dedicated reading device.
+Reading on iPad or kindle is much more pleasant and satisfying compared to Laptop or phone. So if you want to take your reading to next level buy a dedicated reading device.
 
