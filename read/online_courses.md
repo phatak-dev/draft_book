@@ -11,7 +11,7 @@ Whenever people hear about the online courses, there are some insecurities, part
 
 * ####Are they going to charge a lot?
 
-    One of the advantages of online courses is they don't cost too much for the universities or companies to offer them to large amount of students. There are many great free courses in Coursera and very less costly in Udacity. So you should get your money worth.
+    One of the advantages of online courses is they don't cost too much for the universities or companies to offer them to large amount of students. There are many great free courses in Coursera and very less costly courses in Udacity. So you should get your money worth.
 
 * #### Do this courses offer hands on?
 
@@ -29,21 +29,21 @@ Whenever people hear about the online courses, there are some insecurities, part
 
     Coursera keeps the videos and exercises even after the course is completed. So if you don't care about the certificates you can watch videos and follow the course in your own pace.
 
-* ####Is these courses are limited to computers?
+* ####Are these courses are limited to computers?
 
     No. There are variety of courses which covers business,fashion,psychology etc.
 
 
 * ####Which sites offer the MOOC courses?
 
-    Most well known site are [courseera](http://www.coursera), [udacity](https://www.udacity.com/) and [khan academy](https://www.khanacademy.org/)
+    Most well known sites are [courseera](http://www.coursera), [udacity](https://www.udacity.com/) and [khan academy](https://www.khanacademy.org/)
 
 
 MOOC are the new way of learning. These courses offer high quality content and in a very cost effective way.
 
 #Courses to start with
 
-The following are the few courses you should start with. Once you become comforatble, you can explore more courses in future.
+The following are the few courses you should start with. Once you become comfortable, you can explore more courses in future.
 
 * [Algorithms: Design and Analysis, Part 1](https://class.coursera.org/algo-005)
 * [Automata](https://www.coursera.org/course/automata)

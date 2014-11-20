@@ -2,7 +2,7 @@
 
 In last two sections, we concentrated on improving the skills by reading other's code, books and blogs. Reading is great but not enough. Until you code yourself and see the things by your own eye it will be not completely understood.
 
-In this section, I am going to answer one of the common questions asked by many of just out of college professionals. "How the things I learnt in college relate to the real world problems?".
+In this section, I am going to answer one of the most common question asked by many freshers in software industry. "How the things I learnt in college relate to the real world problems?".
 
 This section contains resource to build things from scratch. There are books,courses and other resources which take to step by step building things.
 

@@ -57,7 +57,6 @@ People think JavaScript is just a scripting language. But there is more to it. E
 
 
 # Entrepreneurial / Inspirational books
-The books which I am going to list now are the one which don't teach how to code. But they teach you one of most important factor of software development, i.e design. These books talk about how to build well designed products and also how to build lasting companies.
 
 Read these books to get inspired. These books show how people achieve greatness in their field.
 
@@ -65,7 +64,7 @@ Read these books to get inspired. These books show how people achieve greatness 
 * ###[ Outliers : The story of success ](http://www.amazon.com/Outliers-Story-Success-Malcolm-Gladwell/dp/0316017930)
 
 How people like Bill Gates, Steve Jobs achieved great things in life?
-Is there any commonalities in successful people across different field. This book explores this idea in depth which makes it very interesting to read.
+Are there any commonalities in successful people across different field? This book explores this idea in depth, which makes it very interesting to read.
 
 * ###[ Build to Last ](http://www.amazon.com/Built-Last-Successful-Visionary-Essentials/dp/0060516402/)
 

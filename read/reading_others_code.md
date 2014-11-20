@@ -45,7 +45,7 @@ The following are few of the repositories you can start your journey of reading 
 
 * [Linux Kernel](https://github.com/torvalds/linux) - Complete source code of Linux Kernel. Only for adventures people!!!
 
-** Reading other's code is an art. It takes long time to get to learn it. So have patience and start reading code **
+** Reading other's code is an art. It takes long time to learn. So have patience and start reading code **
 
 
 

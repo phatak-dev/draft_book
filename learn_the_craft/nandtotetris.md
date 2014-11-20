@@ -1,4 +1,5 @@
 # Nand to Tetris
+
 Computer is a complex beast. It is made up of lots of moving parts. Right from basic logic gates to complex games like Counterstrike. You may have learnt gates, operating system , compiler etc etc in pieces. But ever wondered how all these pieces are put together to create an actual computer? If yes, then you should take this course where you build a computer from scratch!.
 
 #Nand to Tetris

@@ -9,14 +9,14 @@ There are many universities in the world, who share their recorded course conten
 
 * ####[Statistics 101](https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PLwSkUXSbQkFmuYHLw0dsL3yDlAoOFrkDG)
 
-    This course is offered by Hardvard university. If you want to learn the probability theory and other statistics courses this course is best one to start with.
+    This course is offered by Harvard university. If you want to learn the probability theory and other statistics courses this course is best one to start with.
 
 * ####[Introduction to Psychology](https://www.youtube.com/watch?v=P3FKHH2RzjI&list=PL6A08EB4EEFF3E91F)
 
    This course is offered by Yale university. It's a good starting point to start understanding the wonders of brain.
 
 * ###[MIT open courseware](https://www.youtube.com/user/MIT)
-  This is a huge collection of courses offered by MIT accessible for free. Courses cover different disciplines like Physics,Chemistry,Computer science etc.
+  This is a huge collection of courses offered by MIT which can be accessed freely. Courses cover different disciplines like Physics,Chemistry,Computer science etc.
 
 These are few courses available in the Youtube. Use youtube's search capability to explore more.
 
@@ -39,9 +39,6 @@ Following are the few talks to start with
 * [Legacy - Creating software that lasts long](http://phatak-dev.github.io/techtalks/legacy-creating-software-that-lasts-long/)
 
 I have collected the conference videos that I enjoyed watching [here](http://phatak-dev.github.io/techtalks/). These are the next ones to be explored after you finish the above ones.
-
-** Youtube is your friend. Use it wisely to get most of out of it**.
-
 
 
 

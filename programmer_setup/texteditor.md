@@ -6,7 +6,7 @@ In this section we are going to look at different code editors you can use. Pick
 #Vi and emacs
 Vi and emacs are two most famous keyboard-only code editors. These editors are 40 years old, still they are used by millions of developers everyday. What makes so old software to be so useful and why a modern developer like you want to learn?
 
-The following are few of the reason you should give vi and emacs a shot
+Following are few reasons which will enforce you to give vi and emacs a shot
 
 * ###Ubiquitos
 
@@ -49,7 +49,7 @@ All the above mentioned tools are focused mostly on code editing and reading. Wh
 
 then you can use an IDE.
 
-IDE stands for Integrated developer environment. It's a software which allows you do all the above mentioned things in one place. Though IDE are more powerful than normal code editors, they consume lot of resources and make you slow as they come with lots  of options.
+IDE stands for Integrated developer environment. It's a software which allows you to do all the above tasks in one place. Though IDE are more powerful than normal code editors, they consume lot of resources and make you slow as they come with lots  of options.
 
 The following are few options for IDE
 
@@ -66,3 +66,4 @@ Mastering a Code editor or IDE is extremely important for a developer. So try al
 
 
 
+Mastering a Code editor or IDE is extremely important for a developer. So try all the above mentioned tools and settle with the one you like. Once you settle you are going to spend rest of your life to master it in the process of becoming highly productive at work.
